@@ -29,7 +29,7 @@
         </li>
 
         
-          <a href="/login" class="text-white hover:text-orange-600 pr-5">LOGIN</a>
+          <a href="{{ url('login') }}" class="block py-2 font-normal pr-4 pl-3 text-neutral-200 border-b border-gray-100 hover:bg-gray-50 md:hover:bg-transparent md:border-0 md:hover:tex-white0 md:p-0 dark:text-white md:dark:hover:text-orange-600 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">LOGIN</a>
           
         </li>
       </ul>

@@ -9,7 +9,7 @@
     <div class="bg-[url('/images/p2.avif')] border-b-4 border-orange-600 bg-cover bg-center bg-no-repeat h-full">
     <!--<img class="h-80 w-1/2"src =" {{url('/images/poster.jpg')}}"/>-->
     <p class="text-center  pt-48 font-bold"> <span class="text-6xl"><span class="text-red-700">W</span>E<span class="text-red-700">L</span>C<span class="text-red-700">O</span>M<span class="text-red-700">E</span> T<span class="text-red-700">O</span> R-<span class="text-red-700">D</span>O<span class="text-red-700">N</span>O<span class="text-red-700">R</span></span> <br> <span class="text-2xl font-bold">DONATE BLOOD, <span class="text-red-700">SAVE A LIFE</span></span></p>
-    <a class ="bg-red-700 rounded w-48 px-8 py-1.5 shadow-md hover:bg-orange-600 text-lg mt-12 mr-96 object-center text-center float-right  "href =" ">Signup/Login</a>
+    <a class ="bg-red-700 rounded w-48 px-8 py-1.5 shadow-md hover:bg-orange-600 text-lg mt-12 mr-96 object-center text-center float-right  "href ="/login ">Signup/Login</a>
 </div>
 <br><br>
 <div class="grid grid-cols-3 gap-0 grid justify-items-center mt-6 text-sm -ml-16 text-center pl-12  ">

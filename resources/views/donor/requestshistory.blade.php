@@ -5,17 +5,8 @@
 
 @section('content')
 
-<div>
-<div class="bg-red-800 h-screen -mt-10 px-10 pt-48 pb-18 text-center leading-8 absolute">
-        <h3 class="font-serif font-semibold -mt-10 text-xl">MENU<h3><br>
-            <ul class="py-2">
-                <li><a class="hover:bg-orange-600 rounded px-2"href="{{ url('profile') }}">PROFILE</a></li>
-                <li><a class="hover:bg-orange-600 rounded px-2"href="{{ url('requests') }}">REQUESTS</a></li>
-                <li><a class="hover:bg-orange-600 rounded px-2"href="{{ url('requestshistory') }}">REQUESTS HISTORY</a></li>
-                <li><a class="hover:bg-orange-600 rounded px-2"href="{{ url('') }}">LOGOUT</a></li>
-                
-            </ul>
-    </div>
+<div class="-ml-24">
+
     <div>
         <h1 class="text-center ml-48 text-3xl font-semibold text-red-700 mt-6">BLOOD REQUESTS</h1>
         <div class="grid grid-cols-2 gap-0 gap-y-5 grid justify-items-center mt-4 text-sm -ml-16 text-center pl-12 ml-36 font-semibold ">
